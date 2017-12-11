@@ -17,7 +17,7 @@ def last_element(array)
 end
 
 
-def first_element_with_array_method(array)
+def irst_element_with_array_method(array)
   array[0]
 end
 
