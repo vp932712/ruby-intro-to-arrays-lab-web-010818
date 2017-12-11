@@ -16,10 +16,10 @@ def last_element(array)
   array[array.length-1]
 end
 def first_element_with_array_method(array)
-  array.first
+  puts array.first
 end
 def last_element_with_array_method(array)
-  array.first
+  array.last
 end
 def length_of_array(array)
   array.length
