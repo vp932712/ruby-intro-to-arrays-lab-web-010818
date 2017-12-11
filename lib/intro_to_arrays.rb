@@ -19,7 +19,7 @@ def first_element_with_array_method(array)
   array.first
 end
 def last_element_with_array_method(array)
-  array.last
+  array.[last]
 end
 def length_of_array(array)
   array.length
